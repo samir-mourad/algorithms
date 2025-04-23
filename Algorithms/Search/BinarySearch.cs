@@ -1,4 +1,4 @@
-﻿namespace Algorithms
+﻿namespace Algorithms.Search
 {
     public class BinarySearch
     {

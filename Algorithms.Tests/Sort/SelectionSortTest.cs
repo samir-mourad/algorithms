@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Algorithms.Sort;
 
-namespace Algorithms.Tests
+namespace Algorithms.Tests.Sort
 {
     public class SelectionSortTest
     {

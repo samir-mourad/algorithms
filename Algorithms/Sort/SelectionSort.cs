@@ -1,4 +1,4 @@
-﻿namespace Algorithms
+﻿namespace Algorithms.Sort
 {
     public class SelectionSort
     {

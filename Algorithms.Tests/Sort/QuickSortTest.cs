@@ -1,4 +1,6 @@
-﻿namespace Algorithms.Tests
+﻿using Algorithms.Sort;
+
+namespace Algorithms.Tests.Sort
 {
     public class QuickSortTest
     {
